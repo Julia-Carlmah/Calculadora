@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 public class exercicio6 {
     
-    
+    //yess
 
 	private static void mover(int Origem, int Destino) {
 		System.out.println(Origem + " -> " + Destino);
